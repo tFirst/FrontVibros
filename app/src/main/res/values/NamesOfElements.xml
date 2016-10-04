@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NamesOfElements">Введите КДР</string>
+    <string name="EnterKSR">Введите КСР</string>
+    <string name="EnterKDR">Введите КДР</string>
+    <string name="Calculate">Рассчитать</string>
+    <string name="ViewKDO">КДО</string>
+    <string name="ViewKSO">КСО</string>
+    <string name="ViewFrontVibros">Фронт. выброс</string>
+</resources>
